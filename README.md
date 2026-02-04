@@ -65,17 +65,6 @@ Currently, I’m focused on mastering the **MERN stack** while expanding into **
 ![Followers](https://img.shields.io/github/followers/MeegadaVamsidhar?style=for-the-badge)
 ![Repos](https://img.shields.io/github/repo-size/MeegadaVamsidhar/Vamsidhar_Portfolio?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<!-- Main GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MeegadaVamsidhar&show_icons=true&theme=radical" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeegadaVamsidhar&theme=radical" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeegadaVamsidhar&layout=compact&theme=radical" />
-
-
+---
 
 ⭐ Feel free to explore my repositories and reach out for collaboration!
