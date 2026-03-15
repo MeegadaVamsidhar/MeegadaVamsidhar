@@ -67,4 +67,32 @@ Currently, I’m focused on mastering the **MERN stack** while expanding into **
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MeegadaVamsidhar&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeegadaVamsidhar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeegadaVamsidhar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeegadaVamsidhar&theme=tokyo-night"/>
+
+---
+
 ⭐ Feel free to explore my repositories and reach out for collaboration!
