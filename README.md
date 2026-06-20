@@ -12,10 +12,11 @@ Currently, I’m focused on mastering the **MERN stack** while expanding into **
 
 ## 🚀 What I Do
 
-- 💻 Build **full-stack web applications**
-- 🌱 Learning **AI/ML & Data Analytics**
-- 🔧 Work with modern frameworks & real-world projects
-- 🧩 Solve DSA & coding challenges
+- 🎓 CSE Student at NIT Durgapur
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning SAP ABAP
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🔍 Exploring Cloud, AI Agents, and Enterprise Applications
 
 ---
 
